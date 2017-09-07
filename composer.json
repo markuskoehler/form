@@ -29,5 +29,5 @@
     "autoload-dev": {
         "classmap": ["tests/"]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
