@@ -1,11 +1,7 @@
-> **Important: This package is not actively maintained.** For bug fixes and new features, please fork.
+> **Important: This is a fork of the deprecated adamwathan/form** For bug fixes and new features, please fork.
 
 Form
 ========
-
-[![This Project Has Been Deprecated.](http://www.repostatus.org/badges/0.1.0/abandoned.svg)](http://www.repostatus.org/#abandoned)
-[![Code Climate](https://codeclimate.com/github/adamwathan/form/badges/gpa.svg)](https://codeclimate.com/github/adamwathan/form)
-[![Coverage Status](https://coveralls.io/repos/adamwathan/form/badge.svg?branch=master)](https://coveralls.io/r/adamwathan/form?branch=master)
 
 Boring name for a boring package. Builds form HTML with a fluent-ish, hopefully intuitive syntax.
 
@@ -22,7 +18,7 @@ Boring name for a boring package. Builds form HTML with a fluent-ish, hopefully 
 You can install this package via Composer by running this command in your terminal in the root of your project:
 
 ```bash
-composer require adamwathan/form
+composer require markuskoehler/form
 ```
 
 ### Laravel
